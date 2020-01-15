@@ -1,4 +1,4 @@
-array = list(map(int, input('Please Enter The List To Be Entered : ').split(",")))
+array = list(map(int, input('Please Enter The List To Be Entered In A Single Line Without Braces : ').split(",")))
 print(array)
 arrayCount = []
 countOfAnimalInPairList = []
